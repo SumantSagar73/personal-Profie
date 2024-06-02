@@ -1,4 +1,4 @@
-<h2 align="left">Continuing my jurney as android developer</h2>
+<h2 align="left">Continuing my journey as android developer</h2>
 
 ###
 
